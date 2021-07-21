@@ -1,6 +1,6 @@
 # Time is Due Reminder - TIDR
 
-This Python program creates a json file, including the next Time is Due Date
+This program creates a json file that includes the next day that BiWeekly time is due at the University of Vermont. 
 
 File Result: ./tidr.json
 
